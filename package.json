@@ -5,5 +5,15 @@
     "main": "src/index.js",
     "scripts": {
         "start": "node src/index.js"
-    }  
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nbelman1/software-dev-course-git-branching.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Nbelman1/software-dev-course-git-branching/issues"
+    },
+    "homepage": "https://github.com/Nbelman1/software-dev-course-git-branching#readme"
 }
